@@ -15,7 +15,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h3 style='text-align: center; color: #2E86C1;'>📝 CÔNG CỤ TÍNH ĐIỂM (namtyu) </h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center; color: #2E86C1;'>📝 CÔNG CỤ TÍNH ĐIỂM</h3>", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 
 # 1. Ô chọn "Loại"
